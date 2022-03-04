@@ -42,3 +42,5 @@ elif pilihan == 5:
     uang = int(input("Uang yang dibayarkan:Rp"))
     kembalian = uang - totalHarga
     print("Uang kembalian:Rp",kembalian)
+else:
+    print("Mohon Maaf Menu Tidak Ada")
